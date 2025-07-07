@@ -2,7 +2,7 @@
 This repository constitutes complementary material for the paper "Physics-Informed  Neural Ordinary Differential Equations for Multi-Zone Residential Thermal Modeling".  
 
 ## Requirements
-The experiments were done using Python 3.9.18. In addition, the following Python packages are needed to run the Jupyter notebook:
+The experiments were done using Python 3.9.18. In addition, the following Python packages are needed to run the Jupyter notebooks:
 
 - diffrax: 0.4.1
 - equinox: 0.11.0
