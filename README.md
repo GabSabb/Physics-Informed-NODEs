@@ -2,16 +2,16 @@
 This repository constitutes complementary material for the paper "Physics-Informed  Neural Ordinary Differential Equations for Multi-Zone Residential Thermal Modeling".  
 
 ## Requirements
-The experiments were done using Python 3.9.13. In addition, the following Python packages are needed to run the Jupyter notebook:
+The experiments were done using Python 3.9.18. In addition, the following Python packages are needed to run the Jupyter notebook:
 
-- matplotlib==3.6.2
-- neuromancer==1.3
-- numpy==1.23.4
-- pandas==1.3.2
-- scikit_learn==1.1.3
-- seaborn==0.12.1
-- slim==0.1
-- torch==1.13.1+cu116
+- diffrax: 0.4.1
+- equinox: 0.11.0
+- jax: 0.4.30
+- matplotlib: 3.7.2
+- optax: 0.1.7
+- numpy: 1.26.0
+- sklearn: 1.3.1
+- pandas: 2.0.3
 
 ## Repository structure
 * Residential_NODE.ipynb: Jupyter notebook that imports and treats the data, generates the model, trains it and visualises the results.
