@@ -7,10 +7,11 @@ The experiments were done using Python 3.9.18. In addition, the following Python
 - diffrax: 0.4.1
 - equinox: 0.11.0
 - jax: 0.4.30
+- jaxlib: 0.4.30
 - matplotlib: 3.7.2
 - optax: 0.1.7
 - numpy: 1.26.0
-- sklearn: 1.3.1
+- scikit-learn: 1.3.1
 - pandas: 2.0.3
 
 ## Repository structure
