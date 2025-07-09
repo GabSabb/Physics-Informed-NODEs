@@ -3,7 +3,7 @@ This repository constitutes complementary material for the paper "Physics-Inform
 
 ![NN_Archi_revised_190mm_1000DPI_test](https://github.com/user-attachments/assets/8f5ad525-11e5-4588-9895-49c2055f6a2a)
 <div style="text-align: center;">
-  <img src=["NN_Archi_revised_190mm_1000DPI_test.png"](https://github.com/user-attachments/assets/8f5ad525-11e5-4588-9895-49c2055f6a2a) width="50%" height="50%">
+  <img src="[NN_Archi_revised_190mm_1000DPI_test.png](https://github.com/user-attachments/assets/8f5ad525-11e5-4588-9895-49c2055f6a2a)" width="50%" height="50%">
 </div>
 
 ## Requirements
