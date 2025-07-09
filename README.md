@@ -2,7 +2,7 @@
 This repository constitutes complementary material for the paper "Physics-Informed  Neural Ordinary Differential Equations for Multi-Zone Residential Thermal Modeling".  
 
 <p align="center">
-    <img src="https://github.com/user-attachments/assets/7ccb91c2-e91b-409d-8d70-773074719a93" alt="Description" width="40%">
+    <img src="https://github.com/user-attachments/assets/7ccb91c2-e91b-409d-8d70-773074719a93" alt="Description" width="50%">
 </p>
 
 ## Requirements
