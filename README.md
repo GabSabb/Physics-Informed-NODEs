@@ -1,6 +1,8 @@
 # Physics-Informed-NODEs
 This repository constitutes complementary material for the paper "Physics-Informed  Neural Ordinary Differential Equations for Multi-Zone Residential Thermal Modeling".  
 
+![NN_Archi_revised_190mm_1000DPI_test](https://github.com/user-attachments/assets/8f5ad525-11e5-4588-9895-49c2055f6a2a)
+
 ## Requirements
 The experiments were done using Python 3.9.18. In addition, the following Python packages are needed to run the Jupyter notebooks:
 
